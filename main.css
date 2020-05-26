@@ -1,0 +1,8 @@
+div {
+
+  background:  linear-gradient(to right, #eee 0%, #eef calc(50% - 160px), transparent calc(50% - 30px), transparent calc(50% + 30px), #eef calc(50% + 160px), #eee 100%),
+  url(http://www.artleo.com/mini/201211/36124.jpg) no-repeat top center;
+  
+  height: 200px;
+  width: 100%;
+  }
