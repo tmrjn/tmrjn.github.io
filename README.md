@@ -1,4 +1,4 @@
-Cha
+Cha! [Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
     UPD: Было решено перейти с https://test299234.000webhostapp.com/ на https://tmrjn.github.io/index.html ввиду недостаточной надежности сервиса | 1:23 26.05.2020
 
 
