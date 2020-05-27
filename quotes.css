@@ -1,0 +1,35 @@
+blockquote {
+    margin: 1em auto 2em;
+    background: white;
+    border-top: 5px solid #EAF9F9;
+    border-bottom: 5px solid #EAF9F9;
+    color: #3A3C55;
+    padding: 20px 22px 20px 90px;
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    }
+    blockquote:before {
+    content: "\201C";
+    font-family: serif;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    color: white;
+    background: #FB6652;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 50px;
+    line-height: 1.35;
+    text-align: center;
+    }
+    blockquote p {
+    margin: 0 0 16px;
+    font-size: 22px;
+    letter-spacing: .05em;
+    line-height: 1.4;
+    }
+    blockquote cite {
+    font-style: normal;
+    }
